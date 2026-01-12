@@ -27,7 +27,7 @@ metadata:
       Build and Deploy: https://app.harness.io/ng/account/EeRjnXTnS4GrLG5VNNJZUw/all/orgs/sandbox/projects/parson/pipelines/Java_App_Provisioner/pipeline-studio/?storeType=INLINE
   links:
   - title: Website
-    url: ad8223229a0dd41b1abbcb2da9ea78fa-1700540726.us-east-1.elb.amazonaws.com
+    url: http://ad8223229a0dd41b1abbcb2da9ea78fa-1700540726.us-east-1.elb.amazonaws.com
   tags:
   - java
   - rothschild
